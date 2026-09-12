@@ -1,0 +1,13 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/docs/
+/pkg/
+/spec/reports/
+/tmp/
+/.ruby-lsp/
+.DS_Store
+Gemfile.lock
+*.gem
